@@ -8,5 +8,5 @@
 ## 목차
 <pre>
 springboot/
-└── <a href="./1_목차.md">문법</a>
+└── <a href="./markdown/1_목차.md">문법</a>
 </pre>
